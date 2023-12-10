@@ -34,7 +34,7 @@ ul {
 
 }
 
-.search_container{
+.search_container {
     color: #758BFD;
     border-radius: 10px;
     border: 3px solid #758BFD;
@@ -46,7 +46,63 @@ ul {
     padding-right: 8px;
 
 }
-.search_logo{
+
+.search_logo {
     width: 32px;
     height: 32px;
+}
+
+/* section */
+section {
+    background-color: #DDEAF8;
+    padding: 115px 98px;
+
+
+}
+
+.all_div {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 51px;
+    column-gap: 22px;
+
+}
+
+.card {
+    background-color:
+        #FFFFFF;
+    width: 400px;
+    height: 333px;
+    padding: 33px 30px;
+    border-radius: 10px;
+
+}
+
+.title {
+    font-family: Ubuntu;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #27187F;
+    margin-bottom: 68px;
+
+}
+
+.photo {
+    width: 100%;
+    height: 188px;
+}
+
+.card_text {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #133B3A;
+    margin-top: 33px;
+
 }
