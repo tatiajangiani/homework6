@@ -46,18 +46,19 @@ ul {
     padding-right: 8px;
 
 }
+.fa-magnifying-glass{
+    font-size: 32px;
+    color: #758BFD;
 
-.search_logo {
-    width: 32px;
-    height: 32px;
 }
+
+
 
 /* section */
 section {
     background-color: #DDEAF8;
     padding: 115px 98px;
-
-
+ 
 }
 
 .all_div {
@@ -106,3 +107,44 @@ section {
     margin-top: 33px;
 
 }
+
+/* footer */
+footer {
+    display: flex;
+    background-color: #758BFD;
+    padding: 75px 98px 105px 98px;
+    justify-content: space-between;
+
+}
+
+.title_footer {
+    font-family: Century Gothic;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #FFFFFF;
+    display: flex
+}
+
+.fa-brands{
+    font-size: 22px;
+    color: 
+    #FFFFFF;
+    vertical-align: middle;
+    margin-top: 20px;
+  
+}
+.fa-linkedin-in{
+    margin-inline: 24px;
+
+}
+.nav_footer{
+    display: flex;
+    column-gap: 11px;
+}
+
+
+
+
